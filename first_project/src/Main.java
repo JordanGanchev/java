@@ -4,6 +4,7 @@ public class Main {
         double b = 7.5;
         double c = a + b;
 
+
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
